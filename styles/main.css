@@ -4,13 +4,7 @@ body {
     width: 100%;
     margin: 0px;
     font-family: 'Source Sans Pro', sans-serif;
-    /* padding-left: 200px; 
-    padding-right: 200px;  */
-}
-
-header {
-    /* display: inline-block; */
-}
+ }
 
 .flexRow {
     display: flex;
