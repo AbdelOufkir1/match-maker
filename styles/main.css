@@ -128,7 +128,7 @@ a:hover {
 }
 
 .banner {
-    background-image: url('file:///home/abdel/Desktop/Pursuit/Unit2/FEWD_Developer_Matchmaker/images/coworking.jpg');
+    background-image: url("/images/coworking.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
