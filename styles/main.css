@@ -128,7 +128,7 @@ a:hover {
 }
 
 .banner {
-    background-image: url("/images/coworking.jpg");
+    background-image: url("../images/coworking.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
